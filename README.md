@@ -16,7 +16,7 @@ The following folders contain the corresponding contents:
 1.**Clone the repo:**
 ```bash
 git clone https://github.com/arses-ui/Netwroks.git
-cd Netwroks
+cd Networks/Code
 ```
 2. **Create and activate a virtual environment 
 2. **Install required packages:**
